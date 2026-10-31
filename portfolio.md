@@ -381,7 +381,7 @@ GET IN TOUCH
 
 편하게 연락 주세요. 커피챗도 좋습니다.
 
-[PDF 이력서 ↗](https://alpha8332.github.io/portfolio-charobotics/assets/resume-robros-v3.pdf?v=resume-3pages-20261030)
+[PDF 이력서 ↗](https://alpha8332.github.io/portfolio-charobotics/assets/resume-charobotics.pdf?v=20261031)
 
 Email
 [sdc8470@gmail.com  ↗ ](mailto:sdc8470@gmail.com)
